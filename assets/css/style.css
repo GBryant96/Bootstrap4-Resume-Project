@@ -257,3 +257,17 @@ transition: all 0.35s ease-in-out;
     width: 60%;
     position: relative;
 }
+
+/*-------------Skills-----------------*/
+
+
+.progress {
+    position: relative;
+    height: 25px;
+    margin-bottom: 4px;
+}
+
+.progress-bar{
+    color: #525252
+}
+
